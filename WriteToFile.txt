@@ -1,0 +1,10 @@
+rrr,55
+bbb,45
+yaz,25
+MAR,20
+zzz,15
+jaj,5
+yyy,5
+ttt,5
+lll,5
+ååå,0
